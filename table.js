@@ -1,4 +1,4 @@
-const fs = require('node:fs');
+  const fs = require('node:fs');
 // const ps = require('prompt-sync');
 // const prompt = ps();
 const prompt = require("prompt-sync")();
